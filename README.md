@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BbosaR
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data visualisation and analysis in R
-- 💞️ I’m looking to collaborate on ggplot2, spatial data analysis, 
+- 💞️ I’m looking to collaborate on ggplot2, spatial data analysis and econometrics modelling in R 
 - 📫 How to reach me kindly send me an email to bbosa.robert@gmail.com
 
 <!---
