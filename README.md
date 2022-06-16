@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BbosaR
 - 👀 I’m interested in data science and Energy Economics
 - 🌱 I’m currently learning data visualisation and analysis in R
-- 💞️ I’m looking to collaborate on ggplot2, spatial data analysis and econometrics modelling in R 
-- 📫 How to reach me kindly send me an email to bbosa.robert@gmail.com
+- 💞️ My areas if interest are data visualisation, spatial data analysis, machine learning and econometrics modelling in R 
+- 📫 How to reach me kindly send an email to bbosa.robert@gmail.com
 
 <!---
 BbosaR/BbosaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
