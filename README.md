@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BbosaR
 - 👀 I’m interested in data science and Energy Economics
 - 🌱 I’m currently learning data visualisation and analysis in R
-- 💞️ My areas if interest are data visualisation, spatial data analysis, machine learning and econometrics modelling in R 
+- 💞️ My areas of interest are data visualisation, spatial data analysis, machine learning and econometrics modelling in R 
 - 📫 How to reach me kindly send an email to bbosa.robert@gmail.com
 
 <!---
